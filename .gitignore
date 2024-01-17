@@ -23,7 +23,7 @@ terraform.tfstate.backup
 terraform.tfstate.*.backup
 
 coverage.txt
-
+.idea
 # dist directory for local testingg
 dist/
 .vscode/settings.json
